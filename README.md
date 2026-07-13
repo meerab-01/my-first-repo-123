@@ -1,4 +1,4 @@
 # my-first-repo-123
-This is my first git repository
+This is my first Git Repository
 <BR>
-Author-meerab shahzadi
+Author-Meerab Shahzadi
